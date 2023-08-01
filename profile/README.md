@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Pixelpk Technologies - Leading Software Development Company
 
 A leading global software development company, Pixelpk Technologies is dedicated to helping small and large business owners in achieving measurable growth through the use of revolutionary software solutions. We are technology experts who are passionate about making ideas come to life.
