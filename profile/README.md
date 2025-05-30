@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="	https://pixelpk.com/wp-content/uploads/2024/08/pixelpk-e1724327830839.jpg" alt="Pixelpk" width="400"/>
+  <img src="https://pixelpk.com/wp-content/uploads/2024/08/pixelpk-e1724327830839.jpg" alt="Pixelpk" width="400"/>
   
   # `<PIXELPK/>`
   ### _DIGITAL ALCHEMY COLLECTIVE_
